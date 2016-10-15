@@ -53,3 +53,6 @@ console.log('\n========================\n')
 alderaan.toString();
 console.log('\n========================\n')
 vaderStar.attack(alderaan);
+
+console.log('Luke, I am your father!');
+console.log('I\'m not actually, my name is Thomas...')
